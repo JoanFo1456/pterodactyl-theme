@@ -1,0 +1,7 @@
+# Build-time only; the plugin ships the built bundle in resources/dist.
+frontend/node_modules/
+
+# Superseded by the vendored Pterodactyl frontend under frontend/vendor.
+frontend/src/
+frontend/harness/
+frontend/build.mjs

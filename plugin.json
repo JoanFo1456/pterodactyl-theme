@@ -1,0 +1,18 @@
+{
+    "id": "pterodactyl-ui",
+    "name": "Pterodactyl UI",
+    "author": "JoanFo",
+    "version": "1.0.0",
+    "description": "Brings back the old Pterodactyl UI.",
+    "category": "plugin",
+    "url": "",
+    "update_url": "",
+    "namespace": "JoanFo\\PterodactylUi",
+    "class": "PterodactylUiPlugin",
+    "panels": [
+        "app",
+        "server"
+    ],
+    "panel_version": null,
+    "composer_packages": null
+}
